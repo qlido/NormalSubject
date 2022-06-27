@@ -1,17 +1,3 @@
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\[','\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-	ignoreClass: ["gist-file"],
-    TeX: { equationNumbers: { autoNumber: "AMS" },
-         extensions: ["AMSmath.js", "AMSsymbols.js"] }
-  }
-});</script>
 # 1단원
 ## 팽창우주설 : 
 - 1929 허블이 외부 은화를 관측해 대부분의 외부 은하가 
@@ -40,7 +26,7 @@ MathJax.Hub.Config({
 - 빅뱅 : 고온 고밀도의 한점에서 대폭발이 일어남
 - 빅뱅직후
 >- 온도 : 매우 높은 상태 
->- 사건 : 기본 입자 형성 (쿼크,전자)  <br>업 쿼크 : $  \frac{2}{3}$다운쿼크 $-\frac{1}{3}$
+>- 사건 : 기본 입자 형성 (쿼크,전자)  <br> 업 쿼크 : $  \frac{2}{3}  $다운쿼크:$  - \frac{1}{3}$
 >- 전자의 전하 : -1
 - 빅뱅 조금 이후
 >- 온도: 10억 K 이하   
@@ -274,7 +260,8 @@ MathJax.Hub.Config({
     |원리| 1. 초전도 현상: 특정 온도 이하에서 물질의 전기 저항이 0이되는 현상 <BR> 2. 초 전도체 : 초전도 현상을 나타내는 물질<BR>3. 마이스너 효과 : 초전도체가 자석을 밀어내며 자석이 초전도체 위에 떠있는 현상| 그리핀: 흑연의 한층으로 탄소원자가 육각형 모양으로 결합하여 한층으로 펼쳐진 평면구조| 
     |장점 | 전류가 흘러도 열 발생 x -> 전력 손실 x <br> 큰 전류 보내서 큰 전자기장 만들수 있음| 유연성,투명,높은 열전도성,화학적으로 안전성<br>전도성 ↑,단단함|
     |단점| 아주 낮은 온도 유지 해야 되서 비용 ↑| 대형,대량제작이 어려움 <br> 전류 흐름을 미세하게 조절 X |
-    |이용 예| 입자가속기,MRI,자기부상열차|초경량 고강도 소재 | 
+    |이용 예| 입자가속기,MRI,자기부상열차|초경량 고강도 소재 |
+
 
 
   
